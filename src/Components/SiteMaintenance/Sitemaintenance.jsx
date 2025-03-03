@@ -18,7 +18,7 @@ const Sitemaintenance = () => {
       sx={{
         position: "relative",
         width: "100%",
-        height: "100vh",
+        // height: "100vh",
         backgroundColor:'#fff',
         display: "flex",
         alignItems: "center",
