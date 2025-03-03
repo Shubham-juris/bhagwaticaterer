@@ -30,7 +30,7 @@ const Sitemaintenance = () => {
     >
       <Box
         sx={{
-          width: "100vw", height: "100vh", backgroundColor: "rgba(163, 32, 32, 0)", position: "fixed", top: 0, left: 0, zIndex: 9999, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", animation: `${fadeIn} 1.5s ease-in-out`,
+          width: "100vw", backgroundColor: "rgba(163, 32, 32, 0)", position: "fixed", top: 0, left: 0, zIndex: 9999, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", animation: `${fadeIn} 1.5s ease-in-out`,
         }}
       >
         <img
