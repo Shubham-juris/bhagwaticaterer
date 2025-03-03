@@ -1,6 +1,6 @@
 import React from 'react';
-import BannerImage from '../../assets/BannerImage.png';
-import BannerImage2 from '../../assets/BannerImage2.png';
+import BannerImage from '../../assets/bannerImage.png';
+import BannerImage2 from '../../assets/bannerImage2.png';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import { Typography, Button } from '@mui/material';
